@@ -57,9 +57,9 @@ To explore how NLP concepts, particularly contextual embeddings, can be applied 
 3. Develop and evaluate deep learning models for binary classification of cancerous vs. normal samples.
 4. Compare model performance to identify the best approach.
 ### Key Results (LSTM Model):
-* Train AUC: 0.9543
-* Validation AUC: 0.8089
-* Test AUC: 0.7067
+* **Train AUC**: 0.9543
+* **Validation AUC**: 0.8089
+* **Test AUC**: 0.7067
 ## 🚀 Future Improvements
 * Expand the dataset to include more diverse samples for better generalization.
 * Optimize Transformer and Attention models to improve long-range dependency capture.
